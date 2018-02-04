@@ -18,6 +18,7 @@ int main()
 	cout << "No to zaczynamy " << imie << "!"<< endl;
 	cout << "Niech liczba " << liczba << " bedzie Ci szczesliwa!";
     getchar();
+    cout << "Policzmy rownanie kwadratowe!" << endl;
 
     return 0;
 }
