@@ -1,2 +1,3 @@
 Jesli ktos to ogarnia to niech ogarnie scalanie kodu...
 i rowanie i konwerter
+i ciagi xD
