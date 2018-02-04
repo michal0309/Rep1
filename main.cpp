@@ -21,7 +21,8 @@ int main()
 	cout << endl;
 
 	cout << "No to zaczynamy " << imie << "!"<< endl;
-	cout << "Niech liczba " << liczba << " bedzie Ci szczesliwa!";
+	cout << "Niech liczba " << liczba << " bedzie Ci szczesliwa!" << endl;
+	cout << "***************************************************" << endl;
 	cout << "Chcielismy zabawic cie rozwiazaniem rownania kwadratowego, ale cos nam nie dziala, moze naprawimy pozniej" << endl;
     getchar();
     return 0;
