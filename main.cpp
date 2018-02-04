@@ -24,6 +24,7 @@ int main()
 	cout << "Niech liczba " << liczba << " bedzie Ci szczesliwa!" << endl;
 	cout << "***************************************************" << endl;
 	cout << "Chcielismy zabawic cie rozwiazaniem rownania kwadratowego, ale cos nam nie dziala, moze naprawimy pozniej" << endl;
+	cout << "Konwerter binarny tez nie dziala xD" << endl;
     getchar();
     return 0;
 }
