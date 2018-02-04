@@ -2,6 +2,9 @@
 #include <math.h>
 #include <conio.h>
 #include <cstdlib>
+#include "binarny.cpp"
+#include "ciagi.cpp"
+#include "rowanie.cpp"
 
 using namespace std;
 
